@@ -14,8 +14,7 @@
 Github Cloning, Python Scripting , MySQL Database,mysql-connector-python, Streamlit, and Plotly.
 
 ### 🛠  Technology and Tools
-* Python 3.12.2
-* XAMPP
+* Python 
 * MYSQL
 * Streamlit
 * Plotly
@@ -65,11 +64,9 @@ The data utilized in this project predominantly consists of openly available dat
 * [Streamlit Documentation](https://docs.streamlit.io/)
 * [Plotly Documentation](https://plotly.com/python/)
 
-### 🎥 Demo Video
-
-YT Link : https://youtu.be/-PQhoSl6GGQ?si=Yp53qDwjJBTKIQR0
 
 ### 📞 Contact
-LINKEDIN: www.linkedin.com/in/gokul-m-j17/             
-EMAIL : gokulgokul6847@gmail.com
+LINKEDIN: https://www.linkedin.com/in/nithesh-goutham-m-0b0514205/       
+WEBSITE : https://digital-cv-using-streamlit.onrender.com/
+EMAIL : nitheshgoutham2000@gmail.com
 
